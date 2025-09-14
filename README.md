@@ -17,6 +17,8 @@ Phase-1 report (2 page limit):
 - Board evaluation function
 - Team management plan
 - Any other issues.
+
+System Architecture and Design Initial Draft:
   
 ![System Plan](system-plan.png)
 
